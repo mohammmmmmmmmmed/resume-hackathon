@@ -1,0 +1,63 @@
+{
+  "contact_info": {
+    "name": "MOHAMMED SAHAL",
+    "email": "mohammedsahal0085@gmail.com",
+    "phone": "+91 9968155488",
+    "location": "",
+    "website": "https://mohammedsahal.vercel.app",
+    "linkedin": "linkedin.com/in/mohammed-sahal-4b299924a"
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institution": "Cochin University of Science and Technology",
+      "end_date": "2026",
+      "coursework": [
+        "Statistical Methods",
+        "Machine Learning",
+        "Time Series Analysis",
+        "Financial Mathematics"
+      ]
+    }
+  ],
+  "experience": [],
+  "total_experience": {
+    "total_months": 0,
+    "years": 0,
+    "remaining_months": 0,
+    "formatted": "0 months"
+  },
+  "skills": [
+    "Python (NumPy",
+    "Java",
+    "Random Forest",
+    "Web Development React.js",
+    "Pandas",
+    "Node.js",
+    "Named Entity Recognition",
+    "Technologies PyTorch",
+    "SciKit-learn)",
+    "MERN Stack",
+    "LSTM Networks",
+    "TypeScript",
+    "Quantitative Skills Statistical Arbitrage",
+    "Time Series Analysis",
+    "Reinforcement Learning",
+    "Risk Management",
+    "Order Execution Systems",
+    "Portfolio Optimization",
+    "Firebase",
+    "Trading Tools TradingView API",
+    "TensorFlow",
+    "Market Data Processing",
+    "Oracle APEX",
+    "Programming C++ (STL",
+    "Machine Learning NLP",
+    "Odoo ERP",
+    "Boost)",
+    "Sentiment Analysis",
+    "SQL"
+  ],
+  "user_id": "d8c3781e-40c0-4d7a-9bbc-95cabae67055",
+  "last_updated": "2025-03-23T08:57:20.982560"
+}

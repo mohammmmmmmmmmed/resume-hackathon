@@ -1,0 +1,102 @@
+{
+  "contact_info": {
+    "name": "JOHN DOE",
+    "email": "johndoe@example.com",
+    "phone": "",
+    "location": "",
+    "website": "",
+    "linkedin": "linkedin.com/in/johndoe"
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institution": "NBA Accredited Tier 1 College Expected 2026 Relevant",
+      "end_date": "2026",
+      "coursework": []
+    }
+  ],
+  "experience": [
+    {
+      "position": "Quantitative Strategy Developer",
+      "company": "Quant Startup (Founded by Alumni of Top Quant Firms) Remote",
+      "location": "",
+      "start_date": "Mar 2025",
+      "end_date": "Present",
+      "description": [
+        "Develop and backtest quantitative trading strategies for global markets from scratch.",
+        "Design and implement robust workflows and data pipelines to support strategy development and analysis.",
+        "Collaborate with cross-functional teams to integrate advanced quantitative research and data science method-",
+        "Continuously optimize strategies using performance metrics and market insights.",
+        "Conduct research on market trends and emerging technologies to improve strategies and processes."
+      ]
+    },
+    {
+      "position": "Software Developer Intern",
+      "company": "FinTech Startup Remote",
+      "location": "",
+      "start_date": "Jan 2025",
+      "end_date": "Feb 2025",
+      "description": [
+        "Developed enterprise-grade financial software solutions using C++ and Python.",
+        "Implemented real-time data processing systems for market analysis.",
+        "Optimized database queries for high-frequency trading applications.",
+        "Gained expertise in:"
+      ]
+    },
+    {
+      "position": "Full Stack Developer Intern",
+      "company": "Tech Startup City",
+      "location": "State",
+      "start_date": "Apr 2024",
+      "end_date": "Jun 2024",
+      "description": [
+        "Engineered high-performance data processing pipelines.",
+        "Implemented real-time analytics dashboard for financial metrics."
+      ]
+    },
+    {
+      "position": "Open Source Contributor",
+      "company": "Blockchain Hackathon Remote",
+      "location": "",
+      "start_date": "May 2024",
+      "end_date": "Jun 2024",
+      "description": [
+        "Developed blockchain-based trading algorithms.",
+        "Implemented smart contract systems for automated trading."
+      ]
+    }
+  ],
+  "total_experience": {
+    "total_months": 8,
+    "years": 0,
+    "remaining_months": 8,
+    "formatted": "8 months"
+  },
+  "skills": [
+    "Reinforcement Learning",
+    "Machine Learning NLP",
+    "Programming C++ (STL",
+    "Boost)",
+    "Trading Tools TradingView API",
+    "Market Data Processing",
+    "TextBlob",
+    "Order Execution Systems",
+    "Random Forest",
+    "VADER",
+    "Time Series Analysis",
+    "Quantitative Skills Statistical Arbitrage",
+    "TensorFlow",
+    "Pandas",
+    "Risk Management",
+    "LSTM Networks",
+    "Named Entity Recognition",
+    "SQL",
+    "Python (NumPy",
+    "Sentiment Analysis",
+    "Portfolio Optimization",
+    "Technologies PyTorch",
+    "SciKit-learn)"
+  ],
+  "user_id": "12052e04-cd1c-46dd-a8dd-a92135f42d0d",
+  "last_updated": "2025-03-23T09:21:36.639208"
+}

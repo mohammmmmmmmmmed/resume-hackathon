@@ -1,0 +1,17 @@
+README.md
+setup.py
+resume_analyzer/__init__.py
+resume_analyzer/nlp_analysis.py
+resume_analyzer/pdf_processor.py
+resume_analyzer/profile_manager.py
+resume_analyzer.egg-info/PKG-INFO
+resume_analyzer.egg-info/SOURCES.txt
+resume_analyzer.egg-info/dependency_links.txt
+resume_analyzer.egg-info/requires.txt
+resume_analyzer.egg-info/top_level.txt
+resume_analyzer/nlp_analyzer/__init__.py
+resume_analyzer/nlp_analyzer/analyzer.py
+resume_analyzer/pdf_processor/__init__.py
+resume_analyzer/pdf_processor/processor.py
+resume_analyzer/profile_generator/__init__.py
+resume_analyzer/profile_generator/generator.py

@@ -1,0 +1,21 @@
+{
+  "contact_info": {
+    "name": "",
+    "email": "",
+    "phone": "",
+    "location": "",
+    "website": "",
+    "linkedin": ""
+  },
+  "education": [],
+  "experience": [],
+  "total_experience": {
+    "total_months": 0,
+    "years": 0,
+    "remaining_months": 0,
+    "formatted": "0 months"
+  },
+  "skills": [],
+  "user_id": "d0c2fac4-6997-4310-8d4f-41a60f485c9a",
+  "last_updated": "2025-03-23T09:34:57.800247"
+}

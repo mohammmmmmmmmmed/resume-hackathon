@@ -1,0 +1,134 @@
+{
+  "contact_info": {
+    "name": "MOHAMMED SAHAL",
+    "email": "mohammedsahal0085@gmail.com",
+    "phone": "+91 9968155488",
+    "location": "",
+    "website": "https://mohammedsahal.vercel.app",
+    "linkedin": "linkedin.com/in/mohammed-sahal-4b299924a"
+  },
+  "education": [
+    {
+      "degree": "B.Tech in Information Technology",
+      "institution": "Cochin University of Science and Technology",
+      "end_date": "2026",
+      "coursework": [
+        "Statistical Methods",
+        "Machine Learning",
+        "Time Series Analysis",
+        "Financial Mathematics"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Quantitative Strategy Developer",
+      "company": "Quantumcona India",
+      "location": "Remote",
+      "start_date": "Mar 2025",
+      "end_date": "Present",
+      "description": [
+        "Designed and implemented a high-frequency trading strategy from scratch using custom C++ libraries, achieving a 20%",
+        "Built a backtesting framework using Python and C++ to evaluate trading strategies, reducing backtesting time by 30%",
+        "Developed a proprietary market data processing engine capable of handling 1M+ data points per second, leveraging",
+        "Integrated Granger causality and cointegration tests into strategy development, improving strategy robustness by 15%."
+      ]
+    },
+    {
+      "position": "Software Developer Intern",
+      "company": "Appropriate Tech Solutions India",
+      "location": "Remote",
+      "start_date": "Jan 2025",
+      "end_date": "Feb 2025",
+      "description": [
+        "Designed and implemented the company\u2019s official website, enabling dynamic content management through a custom-built",
+        "Developed secure authentication and content management features, improving system security and usability.",
+        "Participated in the development of warehouse management solutions using Oracle APEX and Odoo ERP, reducing",
+        "Gained hands-on experience with Firebase and MERN stack for real-time application development."
+      ]
+    },
+    {
+      "position": "Contributor",
+      "company": "Timechain Labs Remote",
+      "location": "",
+      "start_date": "May 2024",
+      "end_date": "Jul 2024",
+      "description": [
+        "Contributed to open-source projects, enhancing functionality and fixing bugs in blockchain-based trading algorithms.",
+        "Collaborated with a team of developers to improve code quality and performance, reducing runtime errors by 15%."
+      ]
+    },
+    {
+      "position": "Intern",
+      "company": "TinkerHub Kochi",
+      "location": "Kerala, India",
+      "start_date": "Apr 2024",
+      "end_date": "Jun 2024",
+      "description": [
+        "Contributed to open-source projects, enhancing functionality and fixing bugs in web applications.",
+        "Collaborated with a team of developers to improve code quality and performance, reducing load times by 20%."
+      ]
+    },
+    {
+      "position": "Website and Content Developer",
+      "company": "Spotlight India",
+      "location": "",
+      "start_date": "Feb 2023",
+      "end_date": "Nov 2023",
+      "description": [
+        "Managed and developed the organization\u2019s website, resulting in a 25% increase in user retention.",
+        "Implemented chatrooms using Firebase and Node.js, enhancing user interaction and satisfaction."
+      ]
+    },
+    {
+      "position": "Frontend Developer Trainee",
+      "company": "mark-P Ernakulam",
+      "location": "Kerala, India",
+      "start_date": "Dec 2022",
+      "end_date": "Apr 2023",
+      "description": [
+        "Explored and solved various backend challenges, improving coding proficiency and system efficiency.",
+        "Collaborated with team members on projects, enhancing team efficiency and product quality."
+      ]
+    }
+  ],
+  "total_experience": {
+    "total_months": 18,
+    "years": 1,
+    "remaining_months": 6,
+    "formatted": "1 years 6 months"
+  },
+  "skills": [
+    "Risk Management",
+    "Odoo ERP",
+    "SciKit-learn)",
+    "Machine Learning NLP",
+    "Python (NumPy",
+    "Market Data Processing",
+    "Named Entity Recognition",
+    "Web Development React.js",
+    "Random Forest",
+    "Quantitative Skills Statistical Arbitrage",
+    "Pandas",
+    "Java",
+    "Sentiment Analysis",
+    "TensorFlow",
+    "Programming C++ (STL",
+    "Trading Tools TradingView API",
+    "Node.js",
+    "SQL",
+    "LSTM Networks",
+    "Order Execution Systems",
+    "Oracle APEX",
+    "MERN Stack",
+    "Portfolio Optimization",
+    "Time Series Analysis",
+    "Technologies PyTorch",
+    "Reinforcement Learning",
+    "Boost)",
+    "TypeScript",
+    "Firebase"
+  ],
+  "user_id": "216aa064-a285-4e77-abb3-24a7609886b2",
+  "last_updated": "2025-03-23T08:59:02.260283"
+}
