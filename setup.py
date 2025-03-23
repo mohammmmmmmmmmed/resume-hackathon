@@ -6,7 +6,6 @@ setup(
     packages=find_packages(),
     install_requires=[
         "pdfplumber>=0.10.2",
-        "spacy>=3.7.2",
         "nltk>=3.8.1",
         "scikit-learn>=1.3.0",
         "transformers>=4.35.0",
